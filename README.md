@@ -6,7 +6,7 @@
 
 **Ubuntu 22.04/24.04**:
 
-1. 
+1. 创建一个conda环境： 'conda create -n pytorch_env python=3.11' 
 
 
 
